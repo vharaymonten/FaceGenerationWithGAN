@@ -1,1 +1,1 @@
-# FaceGenearationWithGAN
+# FaceGenerationWithGAN
